@@ -1,2 +1,0 @@
-# atsk
-My own project
